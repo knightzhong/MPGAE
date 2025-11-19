@@ -1,6 +1,6 @@
 # MPAE: Motif-Prototype Aware Graph Autoencoder
 
-> **Paper**: *Decoupling GAEs for Heterophily: A Motif-Prototype Aware Approach*
+> **Paper**: *Decoupling Graph Autoencoders for Heterophily: A Motif-Prototype Aware Approach*
 
 
 ## Highlights
