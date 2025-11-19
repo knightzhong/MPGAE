@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints & logs
+runs/
+logs/
+*.log
+*.pt
+*.pth
+
+# Data artifacts
+/data/
+!data/README.md
+
+# Cache and logs
+cache/
+logdata/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
